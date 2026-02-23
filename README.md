@@ -1,5 +1,12 @@
 # neuro-flow-service-7
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/neuro-flow-service-7/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/neuro-flow-service-7/actions)
+![License](https://img.shields.io/github/license/yksanjo/neuro-flow-service-7)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/neuro-flow-service-7)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/neuro-flow-service-7)
+
 ## Detailed Description
 
 neuro-flow-service-7 is maintained as an industry-grade software project with production-ready engineering practices.  
